@@ -1,5 +1,3 @@
-from lib import greet, add_numbers, multiply_numbers
-
 from lib import greet, add_numbers, multiply_numbers, power
 
 def main():
@@ -10,5 +8,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-from lib import greet, add_numbers, multiply_numbers, power
+    
