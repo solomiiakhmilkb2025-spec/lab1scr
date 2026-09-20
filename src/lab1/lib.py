@@ -1,6 +1,6 @@
 def greet(name):
     """Виводить привітання для користувача."""
-    return f"Привіт, {name}!"
+    return f"Доброго дня та вітання від команди Б, {name}!"
 
 
 def add_numbers(a, b):
